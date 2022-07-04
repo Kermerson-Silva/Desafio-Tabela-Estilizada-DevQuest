@@ -1,13 +1,5 @@
-table{
+.tabela-moda, .tabela-casa{
   color: #ffffff;
-}
-
-th{
-  padding: 15px;
-}
-
-td{
-  padding: 10px;
 }
 
 .cabecalho-moda{
@@ -20,4 +12,12 @@ td{
 
 .produto{
   background-color: #424250;  
+}
+
+.produto td{
+  padding: 10px;
+}
+
+.cabecalho th{
+  padding: 15px;
 }
