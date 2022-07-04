@@ -10,7 +10,7 @@ CSS.
 
 ## Maiores Dificuldades
 
-A maior dificuldade que tive foi apenas para estilizar o padding da tabela para ela ficar visivelmente mais agradável utilizando apenas classes, mas com a ajuda de nossa comunidade no Discord, consegui fazer.
+A maior dificuldade que tive foi apenas para estilizar o padding da tabela para ela ficar visivelmente mais agradável utilizando apenas classes. Mas com a ajuda de nossa comunidade no Discord, consegui fazer.
 
 ## Aprendizados
 
