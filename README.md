@@ -4,9 +4,9 @@ Neste repositório está a minha resposta ao desafio de HTML e CSS básico propo
 
 ## Tecnologias Utilizadas
 
-HTML.
+- HTML.
 
-CSS.
+- CSS.
 
 ## Maiores Dificuldades
 
